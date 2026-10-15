@@ -19,13 +19,16 @@ texts/ — Sample text files.
 keys/ — Expected output files.
 
 Technologies
+
 C
 CS50 Library
 Hash Tables
 Singly Linked Lists
 Dynamic Memory Allocation
+
 Compilation
 make speller
+
 Usage
 Check a text file using the default dictionary:
 ./speller texts/lalaland.txt
@@ -33,4 +36,5 @@ Specify a dictionary manually:
 ./speller dictionaries/large texts/lalaland.txt
 
 key concepts 
+
 Data structures, algorithms, file handling, string manipulation, and memory management.
