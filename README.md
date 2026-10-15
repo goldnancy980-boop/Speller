@@ -10,6 +10,7 @@ Manages memory through dynamic allocation and deallocation.
 Reports misspelled words and performance statistics.
 
 Project Structure
+
 dictionary.c — Implements dictionary functions.
 dictionary.h — Contains function declarations and constants.
 speller.c — Main spell-checker program.
